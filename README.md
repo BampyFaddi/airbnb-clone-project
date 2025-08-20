@@ -15,3 +15,27 @@ StayEase is a full-stack Airbnb clone built to practice frontend, backend, and d
 - **Version Control:** Git & GitHub
 - **Design Tools:** Figma for UI/UX
 
+## UI/UX Design Planning
+
+### Design Goals
+- Create an intuitive booking flow
+- Maintain visual consistency across pages
+- Ensure fast loading and responsiveness
+- Prioritize accessibility for all users
+
+### Key Features
+- Property search and filtering
+- Detailed property view
+- Secure checkout process
+- User authentication
+
+### Primary Pages
+| Page                  | Description |
+|------------------------|-------------|
+| **Property Listing**   | Grid of properties with filters |
+| **Property Details**   | Full details, images, booking form |
+| **Simple Checkout**    | Payment and booking confirmation |
+
+### Why User-Friendly Design Matters
+A smooth booking system reduces friction, boosts conversion, and improves user satisfaction. Clear navigation and responsive design are critical for trust and ease of use.
+
