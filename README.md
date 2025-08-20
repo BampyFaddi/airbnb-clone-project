@@ -37,4 +37,4 @@ StayEase is a full-stack Airbnb clone built to practice frontend, backend, and d
 
 ### Why User-Friendly Design Matters
 A smooth booking system reduces friction, boosts conversions, and improves user satisfaction.  
-Clear navigation, intuitive interfaces, and responsive design are critical for building trust and ease of use.
+Clear navigation, intuitive interfaces, and responsive design are critical for building trust and ease of use. 
