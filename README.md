@@ -79,3 +79,37 @@ By following a shared design system, the team ensures that the product feels coh
 - [ ] Task 3: Roles & Responsibilities  
 - [ ] Task 4: UI Component Patterns  
 - [ ] Task 5: Manual Review  
+
+---
+
+## 👥 Roles & Responsibilities
+
+### 1. Frontend Developer
+- Build responsive user interfaces using React  
+- Implement reusable components (buttons, cards, forms, etc.)  
+- Connect frontend with backend APIs  
+- Ensure cross-browser compatibility  
+
+### 2. Backend Developer
+- Design and implement server-side logic  
+- Manage APIs for property listings and booking  
+- Handle user authentication and authorization  
+- Ensure data security and performance optimization  
+
+### 3. UI/UX Designer
+- Create wireframes and high-fidelity prototypes in Figma  
+- Define design systems (colors, typography, spacing)  
+- Ensure accessibility and usability standards  
+- Collaborate with developers for pixel-perfect implementation  
+
+### 4. Project Manager
+- Oversee project timeline and milestones  
+- Coordinate between developers and designers  
+- Ensure tasks are completed on time  
+- Handle documentation and reporting  
+
+---
+
+### 💡 Why Roles & Responsibilities Matter
+Clearly defining roles prevents duplication, confusion, and delays.  
+It ensures accountability, smoother collaboration, and efficient delivery of the project.
