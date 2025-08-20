@@ -39,3 +39,22 @@ StayEase is a full-stack Airbnb clone built to practice frontend, backend, and d
 ### Why User-Friendly Design Matters
 A smooth booking system reduces friction, boosts conversion, and improves user satisfaction. Clear navigation and responsive design are critical for trust and ease of use.
 
+### Figma Design Specifications
+
+#### Color Styles
+- **Primary:** #FF5A5F  
+- **Secondary:** #008489  
+- **Background:** #FFFFFF  
+- **Text:** #222222  
+- **Secondary Text:** #717171  
+
+#### Typography
+- **Primary Font:** Circular, Medium (500), 16px  
+- **Headings:** Circular, Bold (700), 24px–32px  
+- **Secondary Text:** Circular, Book (400), 14px  
+
+### Why Identifying Design Properties Matters
+Documenting design properties such as color styles and typography ensures consistency across the application.  
+It helps developers implement UI elements faster, avoids guesswork, and maintains a professional and user-friendly interface.  
+By following a shared design system, the team ensures that the product feels cohesive, accessible, and trustworthy.
+
