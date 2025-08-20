@@ -113,3 +113,50 @@ By following a shared design system, the team ensures that the product feels coh
 ### 💡 Why Roles & Responsibilities Matter
 Clearly defining roles prevents duplication, confusion, and delays.  
 It ensures accountability, smoother collaboration, and efficient delivery of the project.
+
+---
+
+## 🧩 UI Component Patterns
+
+### Why Component Patterns Matter
+In React, components are the building blocks of the user interface.  
+Using consistent design patterns ensures:
+- Faster development with reusable code  
+- Easier debugging and maintenance  
+- A cohesive and professional UI  
+
+### Key UI Component Patterns for StayEase
+1. **Navigation Bar**  
+   - Displays links to Home, Listings, and Login/Register  
+   - Responsive design (hamburger menu for mobile)  
+
+2. **Property Card**  
+   - Image, title, price, and short description  
+   - Reusable in both search results and featured listings  
+
+3. **Search & Filter Form**  
+   - Location, date, price range filters  
+   - Reusable for refining results  
+
+4. **Booking Form**  
+   - Collects user details, dates, and payment info  
+   - Includes input validation  
+
+5. **Modal & Dialogs**  
+   - Used for login/signup popups and booking confirmation  
+
+6. **Buttons & Inputs**  
+   - Styled consistently (primary, secondary, disabled states)  
+   - Reusable across forms and pages  
+
+---
+
+### 📌 Example: Property Card (Wireframe)
+
++----------------------------------+
+| [Image Thumbnail] |
+| Title: Cozy Apartment |
+| Price: $120/night |
+| Location: Nairobi, Kenya |
+| [View Details Button] |
++----------------------------------+
