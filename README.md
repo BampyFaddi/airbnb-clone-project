@@ -160,3 +160,4 @@ Using consistent design patterns ensures:
 | Location: Nairobi, Kenya |
 | [View Details Button] |
 +----------------------------------+
+ https://www.canva.com/design/DAGwyjsowe0/B3SYneE4f1dIY2lBdOMh9A/edit?utm_content=DAGwyjsowe0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
